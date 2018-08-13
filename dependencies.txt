@@ -1,0 +1,17 @@
+import os.path #For file navigation & exporting
+import os #backup for os.path functions
+import sys #Allows me to exit the program cleanly
+import json #Needed to extract json files
+import time #Used to run the code every X seconds & continually run the program
+
+#USED PIP TO GET CERTAIN IMPORTANT (open source) PACKAGES:
+# pip install pandas
+# pip install lxml
+# **Just make sure pip is properly updated and it will do all the work for you.
+(driver above; extract below)
+
+import os.path #For file navigation
+import json #For json extraction 
+import csv #Useful for csv AND delimiters for txt
+import pandas as pd #Needed for excel, and useful for csv
+import datetime #For timestamping archive files
