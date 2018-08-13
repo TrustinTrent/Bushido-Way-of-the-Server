@@ -1,0 +1,37 @@
+StackOverflow Resources:
+
+#running a file with notepad+: https://stackoverflow.com/questions/1702586/how-to-execute-a-python-file-in-notepad
+#opening a file with a string: https://stackoverflow.com/questions/37400974/unicode-error-unicodeescape-codec-cant-decode-bytes-in-position-2-3-trunca
+#saving to a new file&location: https://stackoverflow.com/questions/8024248/telling-python-to-save-a-txt-file-to-a-certain-directory-on-windows-and-mac
+#grabbing file I/O in python: https://docs.python.org/3.3/tutorial/inputoutput.html
+#compound statements syntax: https://docs.python.org/3/reference/compound_stmts.html
+#interfacing git to notepad: https://stackoverflow.com/questions/3490505/is-there-a-notepad-with-github-plugin
+#grabbing just the extension: https://stackoverflow.com/questions/33476195/input-two-files-with-same-name-but-different-extension
+#implementing a SWITCH statement: https://jaxenter.com/implement-switch-case-statement-python-138315.html
+#running/calling another python file: https://stackoverflow.com/questions/1186789/what-is-the-best-way-to-call-a-python-script-from-another-python-script
+#^ Another way to import a file: https://stackoverflow.com/questions/20309456/call-a-function-from-another-file-in-python
+#string partitioning is found here: https://docs.python.org/2/library/stdtypes.html#str.partition
+#python string slicing is here: https://stackoverflow.com/questions/663171/is-there-a-way-to-substring-a-string-in-python
+#listing all files in a directory: https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
+#grabbing the current directory: https://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory
+#Storing a .json in python: https://realpython.com/python-json/
+#Using the pandas library: https://pandas.pydata.org/pandas-docs/stable/basics.html
+#reading excel with pandas: https://stackoverflow.com/questions/17063458/reading-an-excel-file-in-python-using-pandas
+#Adding additional download for panda to work: https://stackoverflow.com/questions/48066517/python-pandas-pd-read-excel-giving-importerror-install-xlrd-0-9-0-for-excel/48066577
+#creating regular expressions for deciding delimiters: https://regex101.com/
+#creating folders inside of a python script: https://stackoverflow.com/questions/1274405/how-to-create-new-folder
+#Adding a timer/counter in real time to python: https://stackoverflow.com/questions/18406165/creating-a-timer-in-python/18406263
+#Moving files to another directory: https://stackoverflow.com/questions/8858008/how-to-move-a-file-in-python
+
+#running a file with notepad+: https://stackoverflow.com/questions/1702586/how-to-execute-a-python-file-in-notepad
+#opening a file with a string: https://stackoverflow.com/questions/37400974/unicode-error-unicodeescape-codec-cant-decode-bytes-in-position-2-3-trunca
+#saving to a new file&location: https://stackoverflow.com/questions/8024248/telling-python-to-save-a-txt-file-to-a-certain-directory-on-windows-and-mac
+#grabbing file I/O in python: https://docs.python.org/3.3/tutorial/inputoutput.html
+#compound statements syntax: https://docs.python.org/3/reference/compound_stmts.html
+#interfacing git to notepad: https://stackoverflow.com/questions/3490505/is-there-a-notepad-with-github-plugin
+#JSON validating website: https://jsonlint.com/
+#JSON dump and load help: https://stackoverflow.com/questions/32911336/what-is-the-difference-between-json-dumps-and-json-load
+#Using a sniffer to find delimiter: https://stackoverflow.com/questions/3952132/how-do-you-dynamically-identify-unknown-delimiters-in-a-data-file
+#reading and writing with csv files: http://www.emilkhatib.com/reading-and-writing-csv-files-with-pandas/
+#reading and writing with xml files: https://stackoverflow.com/questions/12290091/reading-xml-file-and-fetching-its-attributes-value-in-python
+#String slicing on a specific character: https://stackoverflow.com/questions/12572362/get-a-string-after-a-specific-substring
